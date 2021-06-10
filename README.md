@@ -10,7 +10,7 @@ This script resizes your Azure VMs using the tags specified on the VMs. The scri
  
 
 
-![Image](https://github.com/azureautomation/auto-resize-azure-vms-by-using-tags/raw/master/images/tags.png)
+![Image](https://raw.githubusercontent.com/akhilthomas011/Auto-Resize-Azure-VM-With-Tags/main/Images/tags.png)
 
 
  
@@ -51,7 +51,7 @@ Defaut value is 'False'.
  
 
 
-![Image](https://github.com/azureautomation/auto-resize-azure-vms-by-using-tags/raw/master/images/parameters.png)
+![Image](https://raw.githubusercontent.com/akhilthomas011/Auto-Resize-Azure-VM-With-Tags/main/Images/parameters.png)
 
 
  
