@@ -1,4 +1,4 @@
-﻿Auto Resize Azure VMs with Tags (AZ module)
+﻿Auto Resize Azure VMs with Tags (Az module)
 ===================================
 
             
